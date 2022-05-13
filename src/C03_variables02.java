@@ -1,4 +1,4 @@
-public class A03_variaveis02 {
+public class C03_variables02 {
 
     public static void main(String[] args) {
 
