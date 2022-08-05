@@ -1,11 +1,11 @@
 # Code one - Java
 
-Mini curso de Java, da comunidade Let's code pass, onde foram abordados os temas:
+Mini Java course, from the Let's code pass community, where the topics were covered:
 
--   Variáveis;
--   Operadores;
--   Estruturas condicionais;
--   Manipulação de strings e dados;
--   Repetições numéricas;
--   Matrizes;
--   Funções.
+-   Variables;
+-   Operators;
+-   Conditional structures;
+-   String and data manipulation;
+-   Numerical repetitions;
+-   Matrices;
+-   Functions.
